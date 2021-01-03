@@ -24,3 +24,8 @@
 [1230/140433.297:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [1230/140433.297:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [1230/140435.656:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0103/190020.450:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0103/190020.451:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0103/190020.451:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0103/190020.451:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0103/190020.451:ERROR:crash_report_database_win.cc(469)] failed to stat report
